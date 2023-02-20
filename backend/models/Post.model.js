@@ -10,6 +10,7 @@ const postSchema = mongoose.Schema(
     }
 )
 
+//    
 const PostModel = mongoose.model("note", postSchema)
 
 module.exports = { PostModel }
