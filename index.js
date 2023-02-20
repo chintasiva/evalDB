@@ -14,7 +14,7 @@ app.use("/users",userRouter)
 app.use(authenticate)
 app.use("/notes",postRouter)
 
-app.listen(process.env.port,async(req,res)=>{
+app.listen(process.env.Port,async(req,res)=>{
     try {
         await connection
         console.log("Conneted to DB")
