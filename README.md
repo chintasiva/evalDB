@@ -11,10 +11,10 @@ Login
 
 Singup
 
-Add Notes
+Add movie
 
-Update Notes
+Update movie
 
-Delete Notes
+Delete movie
 
-View others notes 
+View others movies 
